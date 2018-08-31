@@ -2,14 +2,14 @@
 def fizzbuzz(int)
      int = 0
      if int % 3 == 0
-        "Fizz"
-     elsif int % 5 == 0
-        "Buzz"
-     elsif int % 15 == 0
-       "FizzBuzz"
-     else
-     if int % 4 == 0
-       "nil"
+        puts ("Fizz")
+     #elsif int % 5 == 0
+      #  "Buzz"
+     #elsif int % 15 == 0
+       #{}"FizzBuzz"
+    # else
+    # if int % 4 == 0
+       #{}"nil"
       end
  end
 
