@@ -10,7 +10,7 @@ def fizzbuzz(int)
        {}"FizzBuzz"
      else
      if int % 4 == 0
-       {}"nil"
+       "nil"
       end
  end
 
